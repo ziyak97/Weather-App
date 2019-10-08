@@ -1,0 +1,55 @@
+body {
+    max-width: 400px;
+    text-align: center;
+    margin: 0 auto;
+    background: #eeedec;
+    letter-spacing: 0.1rem;
+}
+
+h1 {
+    font-weight: normal;
+    margin-bottom: 7%;
+}
+
+h5 {
+    font-weight: normal;
+    font-size: 1.7rem;
+}
+
+.location-text {
+    margin-bottom: 0;
+    font-weight: 300;
+}
+
+.weather-details {
+    background-color: white;
+    padding: 7% 0 0;
+}
+
+.weather-condition {
+    font-size: 0.8rem;
+}
+
+.temp {
+    font-size: 3rem;
+}
+
+.hide {
+    display: none;
+}
+
+.icon {
+    position: relative; 
+    top: -25px;
+    margin-bottom: -50px;
+}
+
+.time-img {
+    max-width: 400px;
+}
+
+.icon img {
+    background-color: gainsboro;
+    border-radius: 50%;
+    max-width: 50px;
+}
